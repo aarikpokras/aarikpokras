@@ -1,5 +1,13 @@
 ### Hi there 👋
+[**Stuff I'm working on**](https://aarikpokras.github.io/stuff-ive-been-working-on/)
+#### Featured
+[specacleOS](https://github.com/aarikpokras/spectacleos)
 
+[SearchMe](https://searchme.one)
+#### If you have time...
+You can collaborate with me on spectacleOS! 👉👈
+
+You can reach me at aarik@searchme.one
 <!--
 **aarikpokras/aarikpokras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
