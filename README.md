@@ -1,3 +1,4 @@
+# Aarik Pokras (Hey, that's me!)
 ### Hi there 👋
 [**Stuff I'm working on**](https://aarikpokras.github.io/stuff-ive-been-working-on/)
 #### Featured
