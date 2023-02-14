@@ -24,5 +24,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Visitor Count](https://profile-counter.glitch.me/aarikpokras/count.svg)
-
-(I know, right? kinda sad.)
+<br />⬆️ Visitor Count ⬆️
