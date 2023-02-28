@@ -1,4 +1,4 @@
-# Aarik Pokras (Hey, that's me!)
+# Aarik Pokras
 ### Hi there 👋
 [**Stuff I'm working on**](https://aarikpokras.github.io/stuff-ive-been-working-on/)
 #### Featured
@@ -9,6 +9,8 @@
 You can collaborate with me on AarikOS! 👉👈
 
 You can reach me at aarik@searchme.one
+
+Or, if you're shy, you can just click this link: [link](https://forms.gle/rDfKwLMueMp5WZBP7)
 <!--
 **aarikpokras/aarikpokras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
