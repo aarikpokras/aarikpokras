@@ -6,11 +6,9 @@
 
 [SearchMe](https://searchme.one)
 #### If you have time...
-You can collaborate with me on AarikOS! 👉👈
+You can collaborate with me on AarikOS! (Please help me I've reached a dead end)
 
 You can reach me at aarik@searchme.one
-
-Or, if you're shy, you can just click this link: [link](https://forms.gle/rDfKwLMueMp5WZBP7)
 <!--
 **aarikpokras/aarikpokras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
