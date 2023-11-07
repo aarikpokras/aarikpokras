@@ -1,5 +1,8 @@
 # Aarik Pokras
-### Hi there 👋
+## 🖥 Languages
+![bash](https://img.shields.io/badge/-bash-black?logo=linux&style=for-the-badge) ![ruby](https://img.shields.io/badge/-ruby-red?logo=ruby&style=for-the-badge) ![fortran](https://img.shields.io/badge/-fortran-purple?logo=fortran&style=for-the-badge) ![cplusplus](https://img.shields.io/badge/-C++-blue?logo=cplusplus&style=for-the-badge) ![c](https://img.shields.io/badge/-C-blue?logo=c&style=for-the-badge) ![html](https://img.shields.io/badge/-HTML-white?logo=html5&style=for-the-badge) ![css](https://img.shields.io/badge/-CSS-blue?logo=css3&style=for-the-badge) ![javascript](https://img.shields.io/badge/-JavaScript-grey?logo=javascript&style=for-the-badge)
+
+## Hi 👋🏼
 [**Stuff I'm working on**](https://aarikpokras.github.io/stuff-ive-been-working-on/)
 #### Featured
 [AarikOS](https://github.com/aarikpokras/aarikos)
