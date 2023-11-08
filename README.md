@@ -2,6 +2,9 @@
 
 <div align = "center">
 
+[![Repos](https://badges.pufler.dev/repos/aarikpokras?style=flat-square&color=FD8C73)](https://github.com/aarikpokras?tab=repositories)
+[![Commits](https://badges.pufler.dev/commits/yearly/aarikpokras?style=flat-square)](https://aarikpokras.com)
+
  <a href = "https://github.com/aarikpokras">![github](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square)</a> <a href = "https://codepen.io/my-tech">![codepen](https://img.shields.io/badge/-CodePen-3D4048?logo=codepen&style=flat-square)</a> <a href = "https://g.dev/aarikpokras">![google developers](https://img.shields.io/badge/-Google%20Developers-1B73E8?logo=google&style=flat-square&logoColor=white)</a> <a href = "https://glitch.com/@aarikpokras100">![glitch](https://img.shields.io/badge/-Glitch-FE7697?logo=glitch&style=flat-square)</a>
  </div>
 
@@ -10,11 +13,14 @@
  
   ### Languages
  
-  [![My Skills](https://skillicons.dev/icons?i=bash,pwsh,ruby,fortran,cpp,c,md,html,css,js,latex,java,julia,perl,py,r&perline=8)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=bash,pwsh,ruby,fortran,cpp,c,md,html,css,js,latex,java,julia,perl,py,r&perline=8)](https://aarikpokras.com)
 
   ### Other Skills
   
-  [![My Skills](https://skillicons.dev/icons?i=raspberrypi,linux,regex,git,emacs&perline=5)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=raspberrypi,linux,regex,git,emacs&perline=5&theme=light)](https://aarikpokras.com)
+
+  
+  [![My Skills](https://skillicons.dev/icons?i=codepen,blender&perline=5&theme=light)](https://aarikpokras.com)
   
 <br /><br />
 </div>
