@@ -20,7 +20,7 @@
   [![My Skills](https://skillicons.dev/icons?i=raspberrypi,linux,regex,git,emacs&perline=5&theme=light)](https://aarikpokras.com)
 
   
-  [![My Skills](https://skillicons.dev/icons?i=codepen,blender&perline=5&theme=light)](https://aarikpokras.com)
+  [![My Skills](https://skillicons.dev/icons?i=codepen&perline=5&theme=light)](https://aarikpokras.com)
   
 <br /><br />
 </div>
