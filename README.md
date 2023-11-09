@@ -1,4 +1,7 @@
-<p align = "center"><a href = "https://github.com/aarikpokras?tab=repositories"><img src = "https://readme-typing-svg.herokuapp.com?font=Menlo&weight=500&size=30&pause=1000&color=000000&center=true&vCenter=true&width=435&height=50&lines=Aarik%20Pokras" /></a></p>
+<p align = "center"><a href = "https://github.com/aarikpokras?tab=repositories">
+
+ [![Aarik Pokras](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=38&pause=1000&color=00FF2598&background=000000&center=true&vCenter=true&random=true&width=435&lines=Aarik+Pokras)](https://git.io/typing-svg)
+</a></p>
 
 <div align = "center">
 
