@@ -19,13 +19,17 @@
  
   [![My Skills](https://skillicons.dev/icons?i=bash,pwsh,ruby,fortran,cpp,c,md,html,css,js,latex,java,julia,perl,py,r&perline=8)](https://aarikpokras.com)
 
-  [![My Skills](https://skillicons.dev/icons?i=angular,nodejs&perline=8)](https://aarikpokras.com)
+  [![My Skills](https://skillicons.dev/icons?i=angular,nodejs&perline=8)](https://aarikpokras.com)&nbsp;
+  <a href = "https://aarikpokras.com">
+  <img src = "https://i.ibb.co/8gQbs09/acspt.png" style = "width:48px;" /></a>&nbsp;&nbsp;<a href = "https://aarikpokras.com"><img src = "https://i.ibb.co/qJztXPg/asm.png" style = "width:48px;" /></a>
 
   ### Other Skills
   
   [![My Skills](https://skillicons.dev/icons?i=raspberrypi,linux,regex,git,emacs&perline=5&theme=light)](https://aarikpokras.com)
 
   [![My Skills](https://skillicons.dev/icons?i=codepen,github,arduino,cmake,gtk&perline=5&theme=light)](https://aarikpokras.com)
+  
+  <img src = "https://i.ibb.co/qyRghzZ/archli.png" style = "width:48px;" />
   
 <br /><br />
 </div>
