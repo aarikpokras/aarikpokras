@@ -32,12 +32,21 @@
   <!--<img src = "https://i.ibb.co/qyRghzZ/archli.png" style = "width:48px;" />-->
 
   ### Operating Systems
-
+<!--
   ![ubuntu](https://img.shields.io/badge/-ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![arch linux](https://img.shields.io/badge/-arch_linux-blue?style=for-the-badge&logo=archlinux&logoColor=white)
   ![macos](https://img.shields.io/badge/-macos-ADADAD?style=for-the-badge&logo=apple&logoColor=white)
   ![raspi os](https://img.shields.io/badge/-raspberry_pi_os-CE2356?style=for-the-badge&logo=raspberrypi&logoColor=white)
   ![fedora](https://img.shields.io/badge/-fedora-0A549F?style=for-the-badge&logo=fedora&logoColor=white)
+  -->
+  <a href = "https://www.aarikpokras.com">
+<img src = "/assets/readme/arc.png" alt = "Arch Linux" width = "48" />&nbsp;
+<img src = "/assets/readme/fed.png" alt = "Fedora" width = "48" />&nbsp;
+<img src = "/assets/readme/mco.png" alt = "macOS" width = "48" />&nbsp;
+<img src = "/assets/readme/rpi.png" alt = "Raspberry Pi OS" width = "48" />&nbsp;
+<img src = "/assets/readme/ubn.png" alt = "Ubuntu" width = "48" />&nbsp;
+<img src = "/assets/readme/lim.png" alt = "Linux Mint" width = "48" />&nbsp;
+  </a>
 <br /><br />
 </div>
 
