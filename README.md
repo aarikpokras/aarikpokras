@@ -29,8 +29,15 @@
 
   [![My Skills](https://skillicons.dev/icons?i=codepen,github,arduino,cmake,gtk&perline=5&theme=light)](https://aarikpokras.com)
   
-  <img src = "https://i.ibb.co/qyRghzZ/archli.png" style = "width:48px;" />
-  
+  <!--<img src = "https://i.ibb.co/qyRghzZ/archli.png" style = "width:48px;" />-->
+
+  ### Operating Systems
+
+  ![ubuntu](https://img.shields.io/badge/-ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![arch linux](https://img.shields.io/badge/-arch_linux-blue?style=for-the-badge&logo=archlinux&logoColor=white)
+  ![macos](https://img.shields.io/badge/-macos-ADADAD?style=for-the-badge&logo=apple&logoColor=white)
+  ![raspi os](https://img.shields.io/badge/-raspberry_pi_os-CE2356?style=for-the-badge&logo=raspberrypi&logoColor=white)
+  ![fedora](https://img.shields.io/badge/-fedora-0A549F?style=for-the-badge&logo=fedora&logoColor=white)
 <br /><br />
 </div>
 
