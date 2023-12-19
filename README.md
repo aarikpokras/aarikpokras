@@ -21,7 +21,7 @@
 
   [![My Skills](https://skillicons.dev/icons?i=angular,nodejs&perline=8)](https://aarikpokras.com)&nbsp;
   <a href = "https://aarikpokras.com">
-  <img src = "https://i.ibb.co/8gQbs09/acspt.png" style = "width:48px;" /></a>&nbsp;&nbsp;<a href = "https://aarikpokras.com"><img src = "https://i.ibb.co/qJztXPg/asm.png" style = "width:48px;" /></a>
+  <img src = "https://i.ibb.co/8gQbs09/acspt.png" style = "width:48px;" /></a>
 
   ### Other Skills
   
