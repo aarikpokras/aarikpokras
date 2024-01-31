@@ -27,9 +27,9 @@
   
   [![My Skills](https://skillicons.dev/icons?i=raspberrypi,linux,regex,git,emacs&perline=5&theme=light)](https://aarikpokras.com)
 
-  [![My Skills](https://skillicons.dev/icons?i=codepen,github,arduino,cmake,gtk&perline=5&theme=light)](https://aarikpokras.com)
+  [![My Skills](https://skillicons.dev/icons?i=codepen,github,gitlab,arduino,cmake&perline=5&theme=light)](https://aarikpokras.com)
 
-  [![My Skills](https://skillicons.dev/icons?i=githubactions,express&perline=5&theme=light)](https://aarikpokras.com)
+  [![My Skills](https://skillicons.dev/icons?i=gtk,githubactions,express&perline=5&theme=light)](https://aarikpokras.com)
   
   <!--<img src = "https://i.ibb.co/qyRghzZ/archli.png" style = "width:48px;" />-->
 
