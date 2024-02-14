@@ -19,7 +19,7 @@
  
   [![My Skills](https://skillicons.dev/icons?i=bash,pwsh,ruby,fortran,cpp,c,md,html,css,js,nodejs,latex,java,julia,perl,py&perline=8)](https://aarikpokras.com)
 
-  [![My Skills](https://skillicons.dev/icons?i=r,angular,vim&perline=8)](https://aarikpokras.com)&nbsp;
+  [![My Skills](https://skillicons.dev/icons?i=r,angular&perline=8)](https://aarikpokras.com)&nbsp;
   <a href = "https://aarikpokras.com">
   <img src = "https://i.ibb.co/8gQbs09/acspt.png" style = "width:48px;" /></a>
 
@@ -30,6 +30,8 @@
   [![My Skills](https://skillicons.dev/icons?i=codepen,github,gitlab,arduino,cmake&perline=5&theme=light)](https://aarikpokras.com)
 
   [![My Skills](https://skillicons.dev/icons?i=gtk,githubactions,express,dotnet,ai&perline=5&theme=light)](https://aarikpokras.com)
+  
+  [![My Skills](https://skillicons.dev/icons?i=vim&perline=5&theme=light)](https://aarikpokras.com)
   
   <!--<img src = "https://i.ibb.co/qyRghzZ/archli.png" style = "width:48px;" />-->
 
