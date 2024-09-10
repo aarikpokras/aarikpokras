@@ -17,7 +17,7 @@
  
   ### Languages
  
-  [![My Skills](https://skillicons.dev/icons?i=bash,pwsh,ruby,fortran,cpp,c,md,html,css,js,nodejs,latex,java,julia,perl,py&perline=8)](https://aarikpokras.com)
+  [![My Skills](https://skillicons.dev/icons?i=bash,pwsh,ruby,fortran,cpp,c,md,html,css,js,nodejs,latex,java,perl,py&perline=8)](https://aarikpokras.com)
 
   [![My Skills](https://skillicons.dev/icons?i=r,angular&perline=8)](https://aarikpokras.com)&nbsp;
   <a href = "https://aarikpokras.com">
