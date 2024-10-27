@@ -9,7 +9,7 @@
 [![Repos](https://badges.pufler.dev/repos/aarikpokras?style=flat-square&color=FD8C73)](https://github.com/aarikpokras?tab=repositories)
 [![Commits](https://badges.pufler.dev/commits/yearly/aarikpokras?style=flat-square)](https://aarikpokras.com)
 
-<a href = "https://github.com/aarikpokras">![github](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square)</a> <a href = "https://gist.github.com/aarikpokras">![gists](https://img.shields.io/badge/-Gists-black?logo=github&style=flat-square)</a> <a href = "https://codepen.io/my-tech">![codepen](https://img.shields.io/badge/-CodePen-3D4048?logo=codepen&style=flat-square)</a> <a href = "https://g.dev/aarikpokras">![google developers](https://img.shields.io/badge/-Google%20Developers-1B73E8?logo=google&style=flat-square&logoColor=white)</a> <a href = "https://glitch.com/@aarikpokras100">![glitch](https://img.shields.io/badge/-Glitch-FE7697?logo=glitch&style=flat-square)</a>
+<a href = "https://github.com/aarikpokras">![github](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square)</a> <a href = "https://gist.github.com/aarikpokras">![gists](https://img.shields.io/badge/-Gists-black?logo=github&style=flat-square)</a> <a href = "https://codepen.io/aarik-pokras">![codepen](https://img.shields.io/badge/-CodePen-3D4048?logo=codepen&style=flat-square)</a> <a href = "https://g.dev/aarikpokras">![google developers](https://img.shields.io/badge/-Google%20Developers-1B73E8?logo=google&style=flat-square&logoColor=white)</a> <a href = "https://glitch.com/@aarikpokras100">![glitch](https://img.shields.io/badge/-Glitch-FE7697?logo=glitch&style=flat-square)</a>
  </div>
 
 ## Tech Stack
