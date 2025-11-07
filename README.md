@@ -34,7 +34,7 @@
   
   <!--<img src = "https://i.ibb.co/qyRghzZ/archli.png" style = "width:48px;" />-->
 
-  ### Operating Systems
+  ### Operating Systems (I use arch btw)
 <!--
   ![ubuntu](https://img.shields.io/badge/-ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![arch linux](https://img.shields.io/badge/-arch_linux-blue?style=for-the-badge&logo=archlinux&logoColor=white)
