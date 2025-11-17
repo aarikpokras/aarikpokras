@@ -1,18 +1,21 @@
-<div align = "center">
+<img width="2940" height="1912" alt="image" src="https://github.com/aarikpokras/aarikpokras/blob/main/assets/readme/hpfld.png?raw=true" />
+<img width="2940" height="1912" alt="image" src="https://github.com/aarikpokras/aarikpokras/blob/main/assets/readme/down.png?raw=true" />
+
+<!--<div align = "center">
  <a href = "https://github.com/aarikpokras?tab=repositories">
 
  [![Aarik Pokras](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=38&pause=1000&color=2C7C86&background=none&center=true&vCenter=true&random=true&width=435&lines=Aarik+Pokras)](https://github.com/aarikpokras?tab=repositories)
 </a></div>
-
-<div align = "center">
+-->
+<!--<div align = "center">
 
 <a href = "https://github.com/aarikpokras">![github](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square)</a> <a href = "https://gist.github.com/aarikpokras">![gists](https://img.shields.io/badge/-Gists-black?logo=github&style=flat-square)</a> <a href = "https://codepen.io/aarik-pokras">![codepen](https://img.shields.io/badge/-CodePen-3D4048?logo=codepen&style=flat-square)</a> <a href = "https://g.dev/aarikpokras">![google developers](https://img.shields.io/badge/-Google%20Developers-1B73E8?logo=google&style=flat-square&logoColor=white)</a> <a href = "https://glitch.com/@aarikpokras100">![glitch](https://img.shields.io/badge/-Glitch-FE7697?logo=glitch&style=flat-square)</a>
- </div>
+ </div>-->
 
-## Tech Stack
+<!--## Tech Stack-->
 <div align = "center">
- 
-  ### Languages
+
+ <!-- ### Languages
  
   [![My Skills](https://skillicons.dev/icons?i=cpp,c,bash,pwsh,ruby,fortran,md,html&perline=8)](https://aarikpokras.com)
   
@@ -20,7 +23,7 @@
 
   [![My Skills](https://skillicons.dev/icons?i=r,angular,swift&perline=8)](https://aarikpokras.com)&nbsp;
   <a href = "https://aarikpokras.com">
-  <img src = "https://i.ibb.co/8gQbs09/acspt.png" style = "width:48px;" /></a>
+  <img src = "https://i.ibb.co/8gQbs09/acspt.png" style = "width:48px;" /></a>-->
 
   ### Other Skills
   
