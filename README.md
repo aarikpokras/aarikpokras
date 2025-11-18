@@ -1,5 +1,5 @@
 <div style="display: flex; gap: 0;">
- <img width="2940" height="1912" alt="image" src="https://github.com/aarikpokras/aarikpokras/blob/main/assets/readme/hpfld.png?raw=true" style="margin: 0; padding: 0;" /><img width="2940" height="1912" alt="image" src="https://github.com/aarikpokras/aarikpokras/blob/main/assets/readme/down.png?raw=true" style="margin: 0; padding: 0;" />
+ <img width="2940" height="1912" alt="image" src="https://github.com/aarikpokras/aarikpokras/blob/main/assets/readme/windfull.png?raw=true" style="margin: 0; padding: 0;" />
 </div>
 
 <!--<div align = "center">
